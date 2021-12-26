@@ -1,3 +1,5 @@
+package com.dpc.singleton;
+
 public class Counter {
 
     private int count;
