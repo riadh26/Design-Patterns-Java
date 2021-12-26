@@ -1,4 +1,4 @@
-package dpc.templatemethod.demo;
+package com.dpc.templatemethod;
 
 import java.util.ArrayList;
 import java.util.List;

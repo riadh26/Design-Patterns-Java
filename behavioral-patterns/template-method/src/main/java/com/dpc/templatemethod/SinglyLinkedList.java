@@ -1,4 +1,4 @@
-package dpc.templatemethod.demo;
+package com.dpc.templatemethod;
 
 public class SinglyLinkedList<T> extends SequentialSearch<T> {
 
